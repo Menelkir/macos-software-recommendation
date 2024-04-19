@@ -32,6 +32,7 @@
 - [Fruity Loops](https://support.image-line.com) - Digital audio workstation.
 - [Fuse Audio Labs](https://fuseaudiolabs.de/) - Audio plugins.
 - [Guitar Pro](https://www.guitar-pro.com) - Tab/Chord Maker.
+- [Loopback](https://rogueamoeba.com/loopback/) - Cable-free audio routing.
 - [Mp3Tag](https://mp3tag.app/) - ID3 Editor.
 - [Music Tag Editor Pro](https://apps.apple.com/br/app/music-tag-editor-pro/id1229106549?mt=12&uo=4) ID3 Editor.
 - [Native Instruments](https://www.native-instruments.com/en/catalog/) - Audio Software and plugins.
@@ -82,6 +83,7 @@
 
 ### File Manager
 - [Commander One](https://ftp-mac.com/) - The best file manager for mac.
+- [PathFinder](https://www.cocoatech.io/) - Extensible file manager.
 
 ### Graphics
 - [Affinity Suite](https://affinity.serif.com/) - Photo editing, graphic design and page layout software.
@@ -92,6 +94,7 @@
 - [Adobe Photoshop](https://www.adobe.com/products/photoshop.html) - Graphics Editor and designer.
 - [Canva](https://www.canva.com/) - Professional design software.
 - [Folder Factory](https://apps.apple.com/br/app/folder-factory/id578055732?mt=12&uo=4) - Icon Tool.
+- [GraphicConverter](https://www.lemkesoft.de/en/products/graphicconverter) - Universal Genius for photo editing.
 - [IconJar](https://geticonjar.com/) - Icon manager.
 - [Pixelmator Pro](https://apps.apple.com/pk/app/pixelmator-pro/id1289583905) - Pro image editor.
 - [Rebelle](https://www.escapemotions.com/products/rebelle/about?//products/rebelle/index.php) - Hyper-realistic painting software with phenomenal oils, acrylics, watercolors, and other wet and dry media.
@@ -137,6 +140,7 @@
 - [Microsoft Office](https://www.microsoft.com/en-us/microsoft-365/mac/microsoft-365-for-mac) - Office Productivity Suite.
 - [Omni](https://www.omnigroup.com/) - Omni Productivity Suite.
 - [Ulysses](https://ulysses.app/) - Focused text editor.
+- [Wondershare PDF Element Pro](https://pdf.wondershare.com/) - PDF Manipulation software.
 
 ### Remote Access
 - [RoyalTS](https://royalapps.com/ts/mac/) - Comprehensive Remote Management Solution.
@@ -156,6 +160,7 @@
 - [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12) - Powerful keep-awake utility.
 - [atMonitor](https://www.atpurpose.com/atMonitor/) - Advanced process manager.
 - [Ghostbuster Pro](https://apps.apple.com/us/app/ghost-buster-pro/id1607749385?mt=12) - Application remover.
+- [Kaleidoscope](https://kaleidoscope.app/) - Spot the differences,  merge in seconds.
 - [Menubar Stats](https://seense.com/menubarstats/) - Menubar stats application.
 - [Onyx](https://titanium-software.fr/en/onyx.html) - Multifunction utility to verify the structure of the system files.
 - [Pacifist](https://www.charlessoft.com/) - A powerful multi-tool for working with macOS package files, disk images, and file archives.
@@ -175,6 +180,8 @@
 ### Virtualization
 - [Corellium](https://www.corellium.com/) - Cloud mobile virtualization.
 - [Crossover Mac](https://www.codeweavers.com/crossover#mac) - Wine Frontend.
+- [Parallels Desktop](https://www.parallels.com/products/desktop/) - Hypervisor.
+- [VMWare Fusion](https://www.vmware.com/products/fusion.html) - Hypervisor.
 
 #### Web Development
 - [Coherence](https://www.bzgapps.com/coherence) - Turn any site into an isolated application.

@@ -310,6 +310,7 @@
 - [IntelliJ IDEA Community Edition](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA is an integrated development environment written in Java for developing computer software  
 - [LiveCode](https://github.com/livecode/livecode) - Cross-platform development IDE.  
 - [Oni](https://github.com/onivim/oni) - Oni is a modern take on modal editing code editor focused on developer productivity.     
+- [TextMate](https://github.com/textmate/textmate) - Powerful and customizable text editor.
 - [Vim](https://github.com/vim/vim) - ubiquitous text editor 
 - [Visual Studio Code](https://github.com/Microsoft/vscode) - Code editor developed by Microsoft.   
 - [ZeroBraneStudio](https://github.com/pkulchenko/ZeroBraneStudio) - ZeroBrane Studio is a lightweight cross-platform Lua IDE with code completion, syntax highlighting, remote debugger, code analyzer, live coding, and debugging support for various Lua engines.    
@@ -341,7 +342,6 @@
 - [AnnePro-mac](https://github.com/msvisser/AnnePro-mac) - macOS application for controlling AnnePro keyboard over bluetooth.    
 - [Fluor](https://github.com/Pyroh/Fluor) - Handy tool for macOS allowing you to switch Fn keys' mode based on active application.    
 - [GokuRakuJoudo](https://github.com/yqrashawn/GokuRakuJoudo) - Karabiner-Elements configuration manager, rescue to bloated karabiner.json  
-- [Karabiner](https://github.com/tekezo/Karabiner) - Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization.    
 - [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.    
 - [Kawa](https://github.com/hatashiro/kawa) - Better input source switcher for macOS.    
 - [Keycastr](https://github.com/keycastr/keycastr) - Keystroke visualizer. 
@@ -682,6 +682,7 @@
 - [Spotter](https://github.com/spotter-application/spotter) - Productivity tool, the main function is to search and launch external application actions and applications themselves, so you can stay focused on your current task. Kind of spotlight or alfred alternative.    
 - [Stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar   
 - [Turbo Boost Switcher](https://github.com/rugarciap/Turbo-Boost-Switcher) - Turbo Boost Switcher is a little application for Mac computers that allows to enable and/or disable the Turbo Boost feature.   
+- [Übersicht](https://tracesof.net/uebersicht/) - Make widgets out of system commands or shell scripts.
 - [VerticalBar](https://github.com/DeromirNeves/DockSeparator) - macOS application to add a vertical bar to Dock.    
 
 ### Video
@@ -767,3 +768,4 @@
 - [Oracle Virtualbox](https://www.virtualbox.org/) - Oracle Virtualization Platform
 - [RktMachine](https://github.com/woofwoofinc/rktmachine) - Menu bar macOS app for running rkt in a macOS hypervisor CoreOS VM. 
 - [utmapp](https://github.com/utmapp/) - Virtualization for other operating systems.    
+- [WineSkin](https://github.com/Gcenx/WineskinServer) - User-friendly tool used to make ports of Microsoft Windows software to macOS
